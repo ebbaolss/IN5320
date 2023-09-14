@@ -1,0 +1,32 @@
+.border {
+    padding: 1%;
+    border-color: rgb(0, 0, 0);
+    border: solid;
+    border-width: 3%;
+    text-align: center;
+    margin: 10%;
+}
+
+.button {
+    padding: 10%;
+    border-color: rgb(0, 0, 0);
+    border: solid red;
+    border-width: 3%;
+    text-align: center;
+    margin: 10%;
+}
+
+.header {
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.country-add {
+    text-align: center;
+    margin: 5%;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+}
